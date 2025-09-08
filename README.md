@@ -1,2 +1,2 @@
-# JWT-token
-Generate and Verify JWT Token using node js
+# Simple-JWT-token-Generate-
+Simple Generate JWT Token using node js
